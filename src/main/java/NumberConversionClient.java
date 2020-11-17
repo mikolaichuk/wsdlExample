@@ -1,8 +1,8 @@
-import generated.NumberConversionSoapType;
+//import generated.NumberConversionSoapType;
+import cxf_generated.NumberConversionSoapType;
 
 import javax.xml.namespace.QName;
 import javax.xml.ws.Service;
-import java.math.BigInteger;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Scanner;
